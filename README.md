@@ -6,7 +6,16 @@ difficulty downcharter for YARG
 ## Download
 
 
+### Windows Standalone 
+
+[System-of-a-DownCharter-v1.0-Standalone](https://github.com/ymode/System-of-a-Downcharter/releases/download/v1.0/System-of-a-DownCharter-v1.0-Standalone.zip)
+
 ## Use
+
+<img width="1636" height="826" alt="image" src="https://github.com/user-attachments/assets/faae49d7-a956-4ddd-8120-f2931ff9b48e" />
+
+
+Use a website like https://www.enchor.us/ - find the song you want and download it as a `.zip` file
 
 <img width="392" height="186" alt="image" src="https://github.com/user-attachments/assets/a7fe158b-6af4-416b-929a-50116533083f" />
 
