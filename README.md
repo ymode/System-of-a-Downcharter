@@ -17,6 +17,8 @@ difficulty downcharter for YARG
 
 Use a website like https://www.enchor.us/ - find the song you want and download it as a `.zip` file
 
+Click `File` then `Open` and select the `.zip` you just downloaded
+
 <img width="392" height="186" alt="image" src="https://github.com/user-attachments/assets/a7fe158b-6af4-416b-929a-50116533083f" />
 
 Choose your target difficulty and click `Convert & Save`
